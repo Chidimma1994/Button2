@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(226, 226, 226);
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+p{
+    background-color: rgb(3, 3, 115);
+    color: #fff;
+    padding: 8px;
+    border-radius: 100px;
+    position: absolute;
+    bottom: 20px;
+    right: 0;
+    font-size: small;
+}
+.main{
+    display: flex;
+    position: relative;
+}
+
+button{
+    background-color: rgb(4, 157, 4);
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+    padding: 20px 40px;
+    font-size: medium;
+    font-weight: 500;
+}
